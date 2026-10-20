@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **QBot** · Team ID `VTU-QFF-HC-0096` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#QBot)
+[⬆ Back to Top](#qbot)
 
 </div>
